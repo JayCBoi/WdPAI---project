@@ -1,2 +1,1 @@
-# WdPAI---project
-App project for WdPAI.
+WdPAI project by Piotr Zbiński
